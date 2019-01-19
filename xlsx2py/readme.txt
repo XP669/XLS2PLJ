@@ -1,23 +1,20 @@
-»·¾³ÅäÖÃ£º
-´Ë¹¤¾ßÄ¿Ç°Ö»ÄÜÔÚwindowÏµÍ³Ê¹ÓÃ£¬ÐèÒª°²×°ÈçÏÂ¹¤¾ß²ÅÄÜÊ¹ÓÃ(Need to install the following tools to use):
-	
+çŽ¯å¢ƒé…ç½®ï¼š
+æ­¤å·¥å…·ç›®å‰åªèƒ½åœ¨windowç³»ç»Ÿä½¿ç”¨ï¼Œéœ€è¦å®‰è£…å¦‚ä¸‹å·¥å…·æ‰èƒ½ä½¿ç”¨(Need to install the following tools to use):
 python-3.x.msi(https://www.python.org/downloads/windows/)
-
 pywin32-x-py3.x.exe(https://sourceforge.net/projects/pywin32/files/pywin32/)
-office2010¼°ÒÔÉÏ
+office2010åŠä»¥ä¸Š
 
-ÌØµã£º
-*Ö§³Öexcel±íµ¼³öÎª£º lua¡¢python¡¢json  £¨json¸ñÊ½²»Ö§³ÖVectorÀàÐÍµ¼³ö£©
-*±íÃûÇ°×º: "@"Îª·þÎñÆ÷ºÍ¿Í»§¶ËÍ¬Ê±µ¼³ö£»"#"½ö¿Í»§¶Ëµ¼³ö£»"$"½ö·þÎñÆ÷µ¼³ö¡£
-*Êý¾ÝÁÐÖÐÃüÁî·ûºÅ:"c"½ö¿Í»§¶Ëµ¼³ö£»"s"½ö·þÎñÆ÷¶Ëµ¼³ö¡£ÏêÇé²é¿´¡°xlsxs/Ê¹ÓÃËµÃ÷.xlsx¡±
-*Ö§³Ö¶ÔÕû±í»òÊý¾ÝÁÐÉèÖÃµ¼³öµ½¿Í»§¶Ë ºÍ ·þÎñÆ÷
-*excelÎÄ¼þÃüÃû¹æÔò£ºËæ±ãÆðÃû×Ö_µ¼³öÃû.xls   "_"ºóÃæµÄÃû×ÖÎªµ¼³öÎÄ¼þÃû£¬Èç¹ûÎÞ"_"ÔòÕû¸öÎÄ¼þ²»´¦Àí¡£
-*¶ÔÒì³£±¨´í½øÐÐ¸ßÁÁÏÔÊ¾
+ç‰¹ç‚¹ï¼š 
+1,æ”¯æŒexcelè¡¨å¯¼å‡ºä¸ºï¼š luaã€pythonã€json ï¼ˆjsonæ ¼å¼ä¸æ”¯æŒVectorç±»åž‹å¯¼å‡ºï¼‰ 
+2,è¡¨åå‰ç¼€: "@"ä¸ºæœåŠ¡å™¨å’Œå®¢æˆ·ç«¯åŒæ—¶å¯¼å‡ºï¼›"#"ä»…å®¢æˆ·ç«¯å¯¼å‡ºï¼›"$"ä»…æœåŠ¡å™¨å¯¼å‡ºã€‚ 
+3,æ•°æ®åˆ—ä¸­å‘½ä»¤ç¬¦å·:"c"ä»…å®¢æˆ·ç«¯å¯¼å‡ºï¼›"s"ä»…æœåŠ¡å™¨ç«¯å¯¼å‡ºã€‚è¯¦æƒ…æŸ¥çœ‹â€œxlsxs/ä½¿ç”¨è¯´æ˜Ž.xlsxâ€ 
+4,excelæ–‡ä»¶å‘½åè§„åˆ™ï¼šéšä¾¿èµ·åå­—_å¯¼å‡ºå.xls "_"åŽé¢çš„åå­—ä¸ºå¯¼å‡ºæ–‡ä»¶åï¼Œå¦‚æžœæ— "_"åˆ™æ•´ä¸ªæ–‡ä»¶ä¸å¤„ç†ã€‚ 
+5,å¯¹å¼‚å¸¸æŠ¥é”™è¿›è¡Œé«˜äº®æ˜¾ç¤º.
 
 
-Ö´ÐÐ¸ñÊ½£º
-python xlsx2py/xlsx2py.py  excelÄ¿Â¼  Êä³öÄ¿Â¼  [lua json python]  [client server] 
-¾ßÌåÊ¹ÓÃ·½Ê½²Î¿¼¶ÔÓ¦.batÎÄ¼þ
+æ‰§è¡Œæ ¼å¼ï¼š
+python xlsx2py/xlsx2py.py  excelç›®å½•  è¾“å‡ºç›®å½•  [lua json python]  [client server] 
+å…·ä½“ä½¿ç”¨æ–¹å¼å‚è€ƒå¯¹åº”.batæ–‡ä»¶
 
-Åä±í¹æ·¶£º
-²é¿´xlsxs/Ê¹ÓÃËµÃ÷.xlsx
+é…è¡¨è§„èŒƒï¼š
+æŸ¥çœ‹xlsxs/ä½¿ç”¨è¯´æ˜Ž.xlsx
