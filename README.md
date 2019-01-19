@@ -21,8 +21,11 @@ office2010及以上
 
 
 执行格式：
+
 python xlsx2py/xlsx2py.py  excel目录  输出目录  [lua json python]  [client server] 
+
 具体使用方式参考对应.bat文件
 
 配表规范：
+
 查看xlsxs/使用说明.xlsx
