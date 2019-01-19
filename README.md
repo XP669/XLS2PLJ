@@ -2,9 +2,13 @@
 方便的将excel数据表导出为lua、python、json格式。
 
 环境配置：
+
 此工具目前只能在window系统使用，需要安装如下工具才能使用(Need to install the following tools to use):
+
 python-3.x.msi(https://www.python.org/downloads/windows/)
+
 pywin32-x-py3.x.exe(https://sourceforge.net/projects/pywin32/files/pywin32/)
+
 office2010及以上
 
 特点： 
