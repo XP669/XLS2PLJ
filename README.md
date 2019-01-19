@@ -17,7 +17,6 @@ office2010及以上
 *excel文件命名规则：随便起名字_导出名.xls   "_"后面的名字为导出文件名，如果无"_"则整个文件不处理。
 *对异常报错进行高亮显示
 
-
 执行格式：
 python xlsx2py/xlsx2py.py  excel目录  输出目录  [lua json python]  [client server] 
 具体使用方式参考对应.bat文件
