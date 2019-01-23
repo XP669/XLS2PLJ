@@ -21,6 +21,6 @@ python xlsx2py/xlsx2py.py  excel目录  输出目录  [lua json python]  [client
 配表规范：  
 查看xlsxs/使用说明.xlsx  
 
-PS：此项目来源于服务器引擎 comblockengine（原KBEngine）中相应插件。
-根据实际项目需求进行了一些功能和使用便利性优化。
-引擎官网：https://www.comblockengine.com/
+PS：此项目来源于服务器引擎 comblockengine（原KBEngine）中相应插件。  
+根据实际项目需求进行了一些功能和使用便利性优化。  
+引擎官网：https://www.comblockengine.com/  
