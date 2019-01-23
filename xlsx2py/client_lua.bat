@@ -7,7 +7,7 @@ color 2
 
 set inDir= ./xlsxs/
 
-set outDir= ./pydatas/
+set outDir= ./lua_out/
 
 echo on
 
