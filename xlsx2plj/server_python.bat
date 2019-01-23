@@ -12,5 +12,5 @@ set outDir= ./python_out/
 echo on
 
 
-python xlsx2py/xlsx2py.py %inDir% %outDir% python server
+python xlsx2plj/xlsx2plj.py %inDir% %outDir% python server
 pause

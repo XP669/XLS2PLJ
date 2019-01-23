@@ -7,10 +7,10 @@ color 2
 
 set inDir= ./xlsxs/
 
-set outDir= ./json_out/
+set outDir= ./lua_out/
 
 echo on
 
 
-python xlsx2py/xlsx2py.py %inDir% %outDir% json client
+python xlsx2plj/xlsx2plj.py %inDir% %outDir% lua client
 pause
